@@ -70,5 +70,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen)](https://github.com/your-username/nyc-airbnb-analysis/archive/main.zip)
